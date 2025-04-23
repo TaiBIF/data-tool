@@ -48,7 +48,7 @@ After downloading and opening the disk image (`.dmg`), simply **drag the app int
 ## Feedback & Issues
 
 If you encounter any problems, have suggestions, or need help using the toolkit,  
-please feel free to open an issue on this repository via the **[GitHub Issues](../../issues)** page.
+please feel free to open an issue on this repository via the [GitHub Issues](../../issues) page.
 
 We welcome all feedback to help improve the tool!
 
