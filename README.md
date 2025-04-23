@@ -61,3 +61,8 @@ Learn more at [https://portal.taibif.tw/](https://portal.taibif.tw/)
 ## Contact
 
 For questions, collaboration, or feedback, please contact the TaiBIF team via the [official contact form](https://portal.taibif.tw/zh-hant/contact-us).
+
+## Update History
+
+See full [Changelog](./CHANGELOG.md)
+
