@@ -24,7 +24,6 @@ Developed by **TaiBIF (Taiwan Biodiversity Information Facility)**, this toolkit
 - 📦 **Darwin Core Archive Export**  
   Cleaned and validated data can be packaged into a `.zip` archive ready for IPT upload.
 
-
 ## Installation & Usage
 
 Refer to the full operations manual: [User Guide in Mandarin (HackMD)](https://hackmd.io/D8z1rDOHTHSmB1N1Nm-tiw?both)
@@ -46,15 +45,18 @@ The tool is available in **three platform-specific versions**. Please download a
 
 After downloading and opening the disk image (`.dmg`), simply **drag the app into the “Applications” folder in Finder**. This will make it easier to launch the application in the future.
 
----
+## Feedback & Issues
+
+If you encounter any problems, have suggestions, or need help using the toolkit,  
+please feel free to open an issue on this repository via the **[GitHub Issues](../../issues)** page.
+
+We welcome all feedback to help improve the tool!
 
 ## About TaiBIF
 
 **Taiwan Biodiversity Information Facility (TaiBIF)** is the node of [GBIF](https://www.gbif.org/) in Taiwan. It provides technical support and infrastructure to help make biodiversity data more findable, accessible, interoperable, and reusable (FAIR).
 
 Learn more at [https://portal.taibif.tw/](https://portal.taibif.tw/)
-
----
 
 ## Contact
 
